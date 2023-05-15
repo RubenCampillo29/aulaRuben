@@ -1,0 +1,51 @@
+.footer{
+
+    background-color: #e48d13;
+    bottom: 0px;
+    display: flex;
+    height: 67px;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+h3{
+
+  color:  rgb(225, 225, 225);
+  font-size: 12px;
+  font-family: "Poppins",sans-serif;
+  padding: 2px;
+  margin-top: 5px;
+
+}
+
+
+p{
+
+    font-family: "Poppins",sans-serif;
+    color:  rgb(225, 225, 225);
+    font-size: 14px;
+    margin-top: 9px;
+
+}
+
+p a{
+
+    text-decoration: underline;
+    font-family: "Poppins",sans-serif;
+    color: rgb(225, 225, 225);
+
+}
+
+
+.foto{
+
+width: 68px;
+height: 20px;
+padding: 0%;
+margin-left: 0px;
+
+
+}
+
+
