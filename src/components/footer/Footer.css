@@ -1,8 +1,10 @@
 footer {
-  background: url(https://aulavirtual.murciaeduca.es/theme/image.php/moove/theme/1677155381/footer-bg);
+
   display: flex;
   margin-top: 5em;
   margin-bottom: 2em;
+  background-image: 'public/footer-bg.png';
+
 }
 
 .section1 {
