@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aulaRuben/static/css/main.b253f844.css",
+    "main.js": "/aulaRuben/static/js/main.9ab5ef04.js",
+    "static/js/787.35dc4fb6.chunk.js": "/aulaRuben/static/js/787.35dc4fb6.chunk.js",
+    "index.html": "/aulaRuben/index.html",
+    "main.b253f844.css.map": "/aulaRuben/static/css/main.b253f844.css.map",
+    "main.9ab5ef04.js.map": "/aulaRuben/static/js/main.9ab5ef04.js.map",
+    "787.35dc4fb6.chunk.js.map": "/aulaRuben/static/js/787.35dc4fb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b253f844.css",
+    "static/js/main.9ab5ef04.js"
+  ]
+}
